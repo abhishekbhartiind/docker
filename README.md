@@ -5,7 +5,9 @@ For example, if you want to run Next.js and nodeJS express server on different p
 ### What is Docker Compose
 
 ```
-Docker-compose is a tool that is used for multi-container applications in a single host. As we can see in the following figure, we can run multi containers as services in a single host with the help of docker-compose.yaml.
+Docker-compose is a tool that is used for multi-container applications in a single host.
+As we can see in the following figure, we can run multi containers as services
+in a single host with the help of docker-compose.yaml.
 ```
 
 Once we install `docker-compose`, basically, we need to follow these three steps
